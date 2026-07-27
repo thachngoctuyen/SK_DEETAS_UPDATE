@@ -1,7 +1,6 @@
 {
-  "DXF_MARK_COUNTER": {
-    "version": "3.8",
-    "note": "First Release",
-    "url": ""
-  }
+  "product_code": "DXF_MARK_COUNTER",
+  "latest_version": "4.0",
+  "release_note": "First Release",
+  "download_url":"https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_MARK_COUNTER_V4.0/SK_DEETAS_DXF_MARK_COUNTER_V4_0_LICENSE_V6.zip"
 }
