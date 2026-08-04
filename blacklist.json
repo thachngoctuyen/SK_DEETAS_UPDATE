@@ -2,7 +2,7 @@
   "payload": {
     "schema": 1,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-04T18:02:07",
+    "generated_at": "2026-08-04T18:34:26",
     "revoked": [
       {
         "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
@@ -10,15 +10,8 @@
         "customer": "",
         "product": "DXF_MARK_COUNTER",
         "revoked_at": "2026-08-04 17:51:58"
-      },
-      {
-        "revocation_id": "89C7E68F06CC35B288B36BB1C047E77519FB4439B241B46FE6A64A4F796ABACA",
-        "license_id": 13,
-        "customer": "SK DEETAS - TUYÊN",
-        "product": "AUTO_BLOCK",
-        "revoked_at": "2026-08-04 18:00:14"
       }
     ]
   },
-  "signature": "z7yVxteh8SlwsrzNjYwUfCiBpDc60zCWVEsC71cpx6uf-EwyzBnbdudsljdQVq6PQEL4vB82SJHsOP4OrO1rBw"
+  "signature": "yDBacipMwp3Ant3p-S3NjNLoUhRqBGHvwOWCilWyxseA1npkYj1OgcLfkqR05Mh12wgP7VhkBcUqzU-vcvjVCg"
 }
