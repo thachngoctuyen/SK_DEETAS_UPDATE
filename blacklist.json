@@ -2,16 +2,23 @@
   "payload": {
     "schema": 1,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-04T18:34:26",
+    "generated_at": "2026-08-04T23:24:36",
     "revoked": [
       {
         "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
         "license_id": 7,
         "customer": "",
         "product": "DXF_MARK_COUNTER",
-        "revoked_at": "2026-08-04 17:51:58"
+        "revoked_at": "2026-08-04 22:00:45"
+      },
+      {
+        "revocation_id": "E4679EB7621C3879E8B1AB47E4A8DA7FB2B88806123C728BCACC0DAC67D01C5D",
+        "license_id": 16,
+        "customer": "MÁY NHÀ - TUYÊN",
+        "product": "DXF_COMPARE",
+        "revoked_at": "2026-08-04 23:24:25"
       }
     ]
   },
-  "signature": "yDBacipMwp3Ant3p-S3NjNLoUhRqBGHvwOWCilWyxseA1npkYj1OgcLfkqR05Mh12wgP7VhkBcUqzU-vcvjVCg"
+  "signature": "v5nJFlwiNHi2Iqqe1aoAAbIksBeR8cF8h8xvKUrGYQrj3qO_rLO5lnBZewwr7KDiA_thvIoYIg7cW5lUTC_9CA"
 }
