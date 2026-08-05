@@ -2,7 +2,7 @@
   "payload": {
     "schema": 1,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-05T15:55:27",
+    "generated_at": "2026-08-05T16:06:49",
     "revoked": [
       {
         "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
@@ -10,15 +10,8 @@
         "customer": "",
         "product": "DXF_MARK_COUNTER",
         "revoked_at": "2026-08-04 22:00:45"
-      },
-      {
-        "revocation_id": "DB82670A9E8FD2461A1D3910F7094C5B4591FEC66E73E7F0FC0A90E70267078C",
-        "license_id": 15,
-        "customer": "SK DEETAS - TUYÊN",
-        "product": "DXF_COMPARE",
-        "revoked_at": "2026-08-05 15:54:30"
       }
     ]
   },
-  "signature": "Gg6F_a98Oz9Elx-pCxIKQXQNZclsTCFO13Ov5sACgY6qzmk_x0CJRr_1OqY07VIHYwFmBj3D9k1KpdN68R_8CQ"
+  "signature": "7RH1JGo-7ER35m86UT5RH9I3TM8xXhEfU7fALPkT4l9eBe_zAU8pbUjzyO0lxLzYP2G_64iTcZhhRucMcduMCQ"
 }
