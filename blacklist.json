@@ -2,8 +2,23 @@
   "payload": {
     "schema": 1,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-05T22:27:03",
-    "revoked": []
+    "generated_at": "2026-08-18T18:30:19",
+    "revoked": [
+      {
+        "revocation_id": "68E4CB2245FDA5D00327D2A2A0AFAB7D330E8573256AC2DB5FA0DAA17B97F39E",
+        "license_id": 19,
+        "customer": "SK DEETAS TUYÊN",
+        "product": "AUTO_BLOCK",
+        "revoked_at": "2026-08-18 18:12:37"
+      },
+      {
+        "revocation_id": "2BB94323F612D3F9759AD04A42309FD55C9CEF730683598634FAE129B242C65F",
+        "license_id": 20,
+        "customer": "SK DEETAS TUYÊN",
+        "product": "SHAPE_MANAGER",
+        "revoked_at": "2026-08-18 18:13:02"
+      }
+    ]
   },
-  "signature": "LcggrxQGYEzWycJ3-WGvj1iNXMrfC61o3wKXCX_3a8cdgVmGHwM5YkRtvC_tYFTWi5jwHDb4qGXuDTcnpsLLDQ"
+  "signature": "bT92OT2N8cN0mwn3wXcS20ZbprcqppLZll1QoenzpUXmkgTUVr7Orq3bDMrfhUx-A1ln9A4Anvg6p3euLCHZCA"
 }
