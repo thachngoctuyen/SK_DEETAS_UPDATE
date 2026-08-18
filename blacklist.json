@@ -2,16 +2,25 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-18T22:15:40",
+    "generated_at": "2026-08-18T22:45:40",
     "revoked": [
       {
-        "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
-        "license_id": 7,
-        "customer": "",
-        "machine_id": "CF6B-3715-3A9D-743B-FE5F-13D8",
-        "product": "DXF_MARK_COUNTER",
-        "scope": "LICENSE",
-        "revoked_at": "2026-08-04 22:00:45"
+        "revocation_id": "89C7E68F06CC35B288B36BB1C047E77519FB4439B241B46FE6A64A4F796ABACA",
+        "license_id": 11,
+        "customer": "SK DEETAS - TUYÊN",
+        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
+        "product": "AUTO_BLOCK",
+        "scope": "MACHINE_TOOL",
+        "revoked_at": "2026-08-18 22:44:17"
+      },
+      {
+        "revocation_id": "89C7E68F06CC35B288B36BB1C047E77519FB4439B241B46FE6A64A4F796ABACA",
+        "license_id": 13,
+        "customer": "SK DEETAS - TUYÊN",
+        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
+        "product": "AUTO_BLOCK",
+        "scope": "MACHINE_TOOL",
+        "revoked_at": "2026-08-18 22:44:17"
       },
       {
         "revocation_id": "68E4CB2245FDA5D00327D2A2A0AFAB7D330E8573256AC2DB5FA0DAA17B97F39E",
@@ -19,8 +28,8 @@
         "customer": "SK DEETAS TUYÊN",
         "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
         "product": "AUTO_BLOCK",
-        "scope": "LICENSE",
-        "revoked_at": "2026-08-18 22:11:15"
+        "scope": "MACHINE_TOOL",
+        "revoked_at": "2026-08-18 22:44:17"
       },
       {
         "revocation_id": "2BB94323F612D3F9759AD04A42309FD55C9CEF730683598634FAE129B242C65F",
@@ -28,11 +37,22 @@
         "customer": "SK DEETAS TUYÊN",
         "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
         "product": "SHAPE_MANAGER",
-        "scope": "LICENSE",
-        "revoked_at": "2026-08-18 18:55:40"
+        "scope": "MACHINE_TOOL",
+        "revoked_at": "2026-08-18 22:44:35"
       }
     ],
-    "revoked_machine_tools": []
+    "revoked_machine_tools": [
+      {
+        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
+        "product": "AUTO_BLOCK",
+        "revoked_at": "2026-08-18 22:44:17"
+      },
+      {
+        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
+        "product": "SHAPE_MANAGER",
+        "revoked_at": "2026-08-18 22:44:35"
+      }
+    ]
   },
-  "signature": "WfjJiQIW-EmwCBnz459ybN3MJRT9FMikvd-rOu3eymmKw5Ia_F9d4wLoowygHT5-2gHlWg9F1wvKmUS-cPyOBw"
+  "signature": "3Oj0ONbjQxCLj2CYJPGQKLLZg3TOVv1q8v0DFo_ndT1En2fuXRrmu6sZukHUaTZPzlN-Pds1oTAIZNkGYRG4Bw"
 }
