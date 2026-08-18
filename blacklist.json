@@ -2,9 +2,9 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-18T23:54:04",
+    "generated_at": "2026-08-18T23:56:06",
     "revoked": [],
     "revoked_machine_tools": []
   },
-  "signature": "WKjWEf2gGa4HWGzYzBB8Snzc-e9JCEnAqIDsH1NT_1gqxmadbiNWbgVbCJxZuAZftw5dEO4LHT1ttNyUyMbDCg"
+  "signature": "EMVFtGqCAUd-YbXDVoVxK0QagIOFAb2MeHLiaMB0hzRP3Ay3XLMiWKVuSoC5eEb1nqngXOWzOb4C65GGvEJHCg"
 }
