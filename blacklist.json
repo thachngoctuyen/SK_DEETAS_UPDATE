@@ -2,25 +2,9 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-18T23:53:48",
-    "revoked": [
-      {
-        "revocation_id": "2BB94323F612D3F9759AD04A42309FD55C9CEF730683598634FAE129B242C65F",
-        "license_id": 18,
-        "customer": "SK DEETAS TUYÊN",
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "SHAPE_MANAGER",
-        "scope": "MACHINE_TOOL",
-        "revoked_at": "2026-08-18 23:47:20"
-      }
-    ],
-    "revoked_machine_tools": [
-      {
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "SHAPE_MANAGER",
-        "revoked_at": "2026-08-18 23:47:20"
-      }
-    ]
+    "generated_at": "2026-08-18T23:54:04",
+    "revoked": [],
+    "revoked_machine_tools": []
   },
-  "signature": "O9cHNhzCeYzRtAGSHbZnqapChT8EncP2Pb_jwHk1_0w6ecuB8nysaU_gmHLLsoDaGzZIR2Gbwl40KXMyrvoOCw"
+  "signature": "WKjWEf2gGa4HWGzYzBB8Snzc-e9JCEnAqIDsH1NT_1gqxmadbiNWbgVbCJxZuAZftw5dEO4LHT1ttNyUyMbDCg"
 }
