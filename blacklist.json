@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-18T23:47:22",
+    "generated_at": "2026-08-18T23:47:37",
     "revoked": [
       {
         "revocation_id": "2BB94323F612D3F9759AD04A42309FD55C9CEF730683598634FAE129B242C65F",
@@ -22,5 +22,5 @@
       }
     ]
   },
-  "signature": "IyMcz62f29n9y4yjUyTkoyrh5oY4LddxoGzWrYzM0md6efKzJT4ZjpoezUl22N64g-ZNBTjplBsb9Ef1Im0oDA"
+  "signature": "b_gjqRyzhLdmhWVaUWT5VIEEJrhkyRKNQvIDdigmmG-0YEtKmfbVWvac8JdynQCNcJddaXSxokYjmFp4__djAQ"
 }
