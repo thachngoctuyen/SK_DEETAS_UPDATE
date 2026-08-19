@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-19T11:02:51",
+    "generated_at": "2026-08-19T11:09:00",
     "revoked": [
       {
         "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
@@ -12,9 +12,24 @@
         "product": "DXF_MARK_COUNTER",
         "scope": "LICENSE",
         "revoked_at": "2026-08-04 22:00:45"
+      },
+      {
+        "revocation_id": "EC606235DAF89A8F4D25508A361AF666A4F582E7E1BF02998C50A8117B3554F6",
+        "license_id": 18,
+        "customer": "SK DEETAS TUYÊN",
+        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
+        "product": "SHAPE_MANAGER",
+        "scope": "MACHINE_TOOL",
+        "revoked_at": "2026-08-19 11:08:58"
       }
     ],
-    "revoked_machine_tools": []
+    "revoked_machine_tools": [
+      {
+        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
+        "product": "SHAPE_MANAGER",
+        "revoked_at": "2026-08-19 11:08:58"
+      }
+    ]
   },
-  "signature": "HjXZhentCDNJw87OnoE3G-73GarCN36XLyOuCn9KdhgYUIQu5l3EJQpRPzkRCa2qeHvovG4AI9QmXhi2hTZ7AA"
+  "signature": "pkntXo7ysp9E5xiTAjuDscVqJBe6L7XHZNoB9MAodl2SL7LjlDFc8nx1XXGTibduw8Wn7p9I3m98JDLJwfCPCA"
 }
