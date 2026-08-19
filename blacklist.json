@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-19T11:13:49",
+    "generated_at": "2026-08-19T11:17:29",
     "revoked": [
       {
         "revocation_id": "89C7E68F06CC35B288B36BB1C047E77519FB4439B241B46FE6A64A4F796ABACA",
@@ -30,15 +30,6 @@
         "product": "AUTO_BLOCK",
         "scope": "MACHINE_TOOL",
         "revoked_at": "2026-08-19 11:13:48"
-      },
-      {
-        "revocation_id": "EC606235DAF89A8F4D25508A361AF666A4F582E7E1BF02998C50A8117B3554F6",
-        "license_id": 18,
-        "customer": "SK DEETAS TUYÊN",
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "SHAPE_MANAGER",
-        "scope": "MACHINE_TOOL",
-        "revoked_at": "2026-08-19 11:08:58"
       }
     ],
     "revoked_machine_tools": [
@@ -46,13 +37,8 @@
         "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
         "product": "AUTO_BLOCK",
         "revoked_at": "2026-08-19 11:13:48"
-      },
-      {
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "SHAPE_MANAGER",
-        "revoked_at": "2026-08-19 11:08:58"
       }
     ]
   },
-  "signature": "PR531Tnkmcp59z07HXa1ft5aUpKz_FvwXuaL5c2Ie96Ke-WIgVy5-qb0gy-JYp_zvIo1QlTo9MNKPlhW2KLFBQ"
+  "signature": "AGAb3iv8fnrlzVO1L9wKb60dITW1fu6Mm-gjOgVxQ9v7QrO5lbBK_dTlLOnGRyPsy_ViSwnGbxnZyqi3k8yWAA"
 }
