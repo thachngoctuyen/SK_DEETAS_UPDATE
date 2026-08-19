@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
-    "generated_at": "2026-08-19T11:00:14",
+    "generated_at": "2026-08-19T11:02:51",
     "revoked": [
       {
         "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
@@ -12,42 +12,9 @@
         "product": "DXF_MARK_COUNTER",
         "scope": "LICENSE",
         "revoked_at": "2026-08-04 22:00:45"
-      },
-      {
-        "revocation_id": "89C7E68F06CC35B288B36BB1C047E77519FB4439B241B46FE6A64A4F796ABACA",
-        "license_id": 11,
-        "customer": "SK DEETAS - TUYÊN",
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "AUTO_BLOCK",
-        "scope": "MACHINE_TOOL",
-        "revoked_at": "2026-08-19 10:54:52"
-      },
-      {
-        "revocation_id": "89C7E68F06CC35B288B36BB1C047E77519FB4439B241B46FE6A64A4F796ABACA",
-        "license_id": 13,
-        "customer": "SK DEETAS - TUYÊN",
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "AUTO_BLOCK",
-        "scope": "MACHINE_TOOL",
-        "revoked_at": "2026-08-19 10:54:52"
-      },
-      {
-        "revocation_id": "E95E777EEEFA182AA3A5C1EF14C55A0881A82A8D6DB971E5FE2BA7DCC4A4D999",
-        "license_id": 17,
-        "customer": "SK DEETAS TUYÊN",
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "AUTO_BLOCK",
-        "scope": "MACHINE_TOOL",
-        "revoked_at": "2026-08-19 10:54:52"
       }
     ],
-    "revoked_machine_tools": [
-      {
-        "machine_id": "SKD-043B-22DF-7E06-0F71-EA6C",
-        "product": "AUTO_BLOCK",
-        "revoked_at": "2026-08-19 10:54:52"
-      }
-    ]
+    "revoked_machine_tools": []
   },
-  "signature": "Vc6ZUwLDm3BniNp0KBbyAwWbkOCgHw40XrTRe4SokhVfxE5ONyYNNYWH3Mup33qo7Ut2cPns3eyUsCfV1qbFDQ"
+  "signature": "HjXZhentCDNJw87OnoE3G-73GarCN36XLyOuCn9KdhgYUIQu5l3EJQpRPzkRCa2qeHvovG4AI9QmXhi2hTZ7AA"
 }
