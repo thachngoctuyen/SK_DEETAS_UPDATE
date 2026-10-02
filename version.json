@@ -29,11 +29,11 @@
   },
   "PLATE_CHECK": {
     "name": "SK_DEETAS PLATE CHECK",
-    "version": "5.35",
-    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/PLATE_CHECK_V5_35/SK_DEETAS_PLATE_CHECK_V5_35_EXE.zip",
+    "version": "5.36",
+    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/PLATE_CHECK_V5_36/SK_DEETAS_PLATE_CHECK_V5_36_EXE.zip",
     "exe": "SK_DEETAS_PLATE_CHECK.exe",
-    "note": "SK_DEETAS PLATE CHECK V5.35\n\n- Improve stability\n- Fix bugs\n- Update package",
-    "sha256": "413ef10855fdd52ac77b87fda164aef8fe4259237a657ba0a9b0d6b589071ae4",
+    "note": "SK_DEETAS PLATE CHECK V5.36\n\n- Improve stability\n- Fix bugs\n- Update package",
+    "sha256": "83b9e030277beab89f989052da8bcc1b163dc71686b2258c1d9e0d83c924d339",
     "restart": true,
     "preserve": [
       "License.dat",
