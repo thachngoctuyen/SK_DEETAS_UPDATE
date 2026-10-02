@@ -2,9 +2,27 @@
   "payload": {
     "schema": 2,
     "issuer": "SK_DEETAS",
+<<<<<<< Updated upstream
     "generated_at": "2026-08-19T11:17:41",
     "revoked": [],
     "revoked_machine_tools": []
   },
   "signature": "IM8mg1BJX5l5IdRS3lCIZSleq42EA6o93vcCgX9LD5wpHZu4TvCzyzyHF634fVMVb86HT5dwkFgCeDICVj0-Bw"
+=======
+    "generated_at": "2026-08-19T11:02:23",
+    "revoked": [
+      {
+        "revocation_id": "1F20CB10EA10837038082AF8BDED8EC5A8DCFCE3B402AA462379667BD2EBB8B8",
+        "license_id": 7,
+        "customer": "",
+        "machine_id": "CF6B-3715-3A9D-743B-FE5F-13D8",
+        "product": "DXF_MARK_COUNTER",
+        "scope": "LICENSE",
+        "revoked_at": "2026-08-04 22:00:45"
+      }
+    ],
+    "revoked_machine_tools": []
+  },
+  "signature": "dlzVeKbDW_JB0PNEgfjCl_ZMP2xh2wLDE4P1lnKuLwc0ghLYK8Rw6UNWcbLYoHUUEfFGs7psjN-jd2bNnbqDBA"
+>>>>>>> Stashed changes
 }
