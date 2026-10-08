@@ -19,7 +19,7 @@
     "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_COMPARE_V24_22/SK_DEETAS_DXF_COMPARE_V24_22_EXE.zip",
     "exe": "SK_DEETAS_DXF_COMPARE.exe",
     "note": "SK_DEETAS DXF COMPARE V24.22\n\n- Improve stability\n- Fix bugs\n- Update package",
-    "sha256": "8970e86934265de16bb5e5b08c8a5e0802b7331a8ffe07c777c6cea493c77a95",
+    "sha256": "78a77b632e26b55145fd4b2ccda9203e3ac9a6c0989d316973a2e37f9eeed24f",
     "restart": true,
     "preserve": [
       "License.dat",
