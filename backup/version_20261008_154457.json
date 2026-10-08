@@ -1,0 +1,44 @@
+{
+  "DXF_MARK_COUNTER": {
+    "name": "SK_DEETAS DXF MARK COUNTER",
+    "version": "4.0",
+    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_MARK_COUNTER_V4.0/SK_DEETAS_DXF_MARK_COUNTER_V4_0_LICENSE_V6.zip",
+    "exe": "SK_DEETAS_DXF_MARK_COUNTER_V4_0_LICENSE_V6.exe",
+    "note": "First Release",
+    "sha256": "",
+    "restart": true,
+    "preserve": [
+      "License.dat",
+      "settings.json",
+      "config.json"
+    ]
+  },
+  "DXF_COMPARE": {
+    "name": "SK_DEETAS DXF COMPARE",
+    "version": "24.22",
+    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_COMPARE_V24_22/SK_DEETAS_DXF_COMPARE_V24_22_EXE.zip",
+    "exe": "SK_DEETAS_DXF_COMPARE.exe",
+    "note": "SK_DEETAS DXF COMPARE V24.22\n\n- Improve stability\n- Fix bugs\n- Update package",
+    "sha256": "ecf46b4e2b7ded963b541602c324272cceae38804155ba956eab955f36d7e882",
+    "restart": true,
+    "preserve": [
+      "License.dat",
+      "settings.json",
+      "config.json"
+    ]
+  },
+  "PLATE_CHECK": {
+    "name": "SK_DEETAS PLATE CHECK",
+    "version": "5.37",
+    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/PLATE_CHECK_V5_37/SK_DEETAS_PLATE_CHECK_V5_37_EXE.zip",
+    "exe": "SK_DEETAS_PLATE_CHECK.exe",
+    "note": "SK_DEETAS PLATE CHECK V5.37\n\n- Improve stability\n- Fix bugs\n- Update package",
+    "sha256": "fcc00909176b0dc60c5fa03ec08c4b116fc4a4cf4700c95cf743093838e3807e",
+    "restart": true,
+    "preserve": [
+      "License.dat",
+      "settings.json",
+      "config.json"
+    ]
+  }
+}
