@@ -4,8 +4,9 @@
     "version": "4.52.34",
     "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_MARK_COUNTER_V4_52_34/SK_DEETAS_DXF_MARK_COUNTER_V4_52_34_EXE.zip",
     "exe": "SK_DEETAS_DXF_MARK_COUNTER.exe",
+    "exe_name": "SK_DEETAS_DXF_MARK_COUNTER.exe",
     "note": "SK_DEETAS DXF MARK COUNTER V4.52.34\n\n- Improve stability\n- Fix bugs\n- Update package",
-    "sha256": "cc00d8caf621d0edabb361b2a4b22d3a7d2767581b42fb227e96638fd6694ccf",
+    "sha256": "2dddd3afd38bd3c8dc118b69b4aad2a2c584783c05ef64e8bba8a7b6dfef0d74",
     "restart": true,
     "preserve": [
       "License.dat",
