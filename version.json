@@ -15,11 +15,11 @@
   },
   "DXF_COMPARE": {
     "name": "SK_DEETAS DXF COMPARE",
-    "version": "24.24",
-    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_COMPARE_V24_24/SK_DEETAS_DXF_COMPARE_V24_24_EXE.zip",
+    "version": "24.30",
+    "url": "https://github.com/thachngoctuyen/SK_DEETAS_UPDATE/releases/download/DXF_COMPARE_V24_30/SK_DEETAS_DXF_COMPARE_V24_30_EXE.zip",
     "exe": "SK_DEETAS_DXF_COMPARE.exe",
-    "note": "SK_DEETAS DXF COMPARE V24.24\n\n- Improve stability\n- Fix bugs\n- Update package",
-    "sha256": "ff6f5004efab3f52c584e9e13bb75052a295a60f385c7a4cdd5f0e8c36a3c01b",
+    "note": "SK_DEETAS DXF COMPARE V24.30\n\n- Improve stability\n- Fix bugs\n- Update package",
+    "sha256": "c38facc173304daea3d674e7458c479dd6df5387c656954279f876fc15cfcf96",
     "restart": true,
     "preserve": [
       "License.dat",
